@@ -38,7 +38,7 @@ I woke up in a sweat. I could hardly believe what I had witnessed. In one night,
 
 
 ## Read More
-Find the full version of Caesar-Lis Flood aswell as more information about adventures in model land at https://zenodo.org/records/15148953 .
+Find the full version of **Caesar-Lis Flood** aswell as more information about adventures in model land [here](https://zenodo.org/records/15148953).
 
 
 <iframe src="adventuresinmodelland_withQR.pdf" width="100%" height="600px"></iframe>
