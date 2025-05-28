@@ -1,4 +1,3 @@
-# Adventures in Model Land
 
 ## Blue to Red
 
