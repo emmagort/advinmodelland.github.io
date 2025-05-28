@@ -2,7 +2,7 @@
 
 ## Blue to Red
 
-You are blue, and are surrounded by other blue people: swirling together in a dot, identical and indistinguishable. From somewhere above you hear the ticking of a clock, and suddenly find yourself and some of your fellows pulled upwards, sucked through a tube arcing high above. As you speed through the tube you see that your dot is one of many: all with blue, some with flecks of red. You see many tubes arcing from dot to dot, all of varying widths and capacities. Your tube journey ends in another, larger dot  and you swirl around with more blue people.  
+You are blue, and are surrounded by other blue people: swirling together in a dot, identical and indistinguishable. From somewhere above you hear the ticking of a clock, and suddenly find yourself and some of your fellows pulled upwards, sucked through a tube arcing high above. As you speed through the tube, you see that your dot is one of many: all with blue, some with flecks of red. You see many tubes arcing from dot to dot, all of varying widths and capacities. Your tube journey ends in another, larger dot  and you swirl around with more blue people.  
 
 You see a flash of red ahead of you, and see that actually it is a red person!  You brush against the red person and you start to turn red as well. You feel strange - you are infected. 
 
@@ -37,7 +37,8 @@ I woke up in a sweat. I could hardly believe what I had witnessed. In one night,
 
 
 
-## Caesar-Lis Flood
+## Read More
+Find the full version of Caesar-Lis Flood aswell as more information about adventures in model land at https://zenodo.org/records/15148953 .
 
 
 <iframe src="adventuresinmodelland_withQR.pdf" width="100%" height="600px"></iframe>
