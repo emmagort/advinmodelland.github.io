@@ -1,4 +1,4 @@
-
+#Adventures in Model Land
 
 ## Blue to Red
 
@@ -36,9 +36,24 @@ I woke up in a sweat. I could hardly believe what I had witnessed. In one night,
 
 
 
-
 ## Read More
 Find the full version of **Caesar-Lis Flood** aswell as more information about adventures in model land [here](https://zenodo.org/records/15148953).
 
 
 <iframe src="adventuresinmodelland_withQR.pdf" width="100%" height="600px"></iframe>
+
+# Outside of Model Land
+
+### Lice to See you
+
+Find out all about Lice to See you [here](https://zenodo.org/records/10782686).
+
+### Ghost Escape
+Please feel free to print a copy of the Ghost escape game for yourselves if you feel so inclined. It would be amazing if you completed this [form](https://forms.office.com/pages/responsepage.aspx?id=KVxybjp2UE-B8i4lTwEzyOYrugcre7tGkOy9ChRaDu9URVQwS1Y3RFNOQjE2ODNCWEtENVIzT0JVVi4u&route=shorturl) to help with our research.
+![image](https://github.com/user-attachments/assets/332f9533-8169-44ff-9ebd-ff3e253d739a)
+![image](https://github.com/user-attachments/assets/47c749c9-2273-4869-892d-7cd7f7da782a)
+[maths participation poster.pdf](https://github.com/user-attachments/files/20532861/maths.participation.poster.pdf)
+
+[request.pdf](https://github.com/user-attachments/files/20532866/request.pdf)
+
+
